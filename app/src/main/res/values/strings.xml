@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Movie</string>
+
+    <array name="data_photo">
+        <item>@drawable/spiderman_far_from_home</item>
+        <item>@drawable/the_lion_king</item>
+        <item>@drawable/childs_play</item>
+        <item>@drawable/yesterday</item>
+        <item>@drawable/the_hustle</item>
+        <item>@drawable/iqro_my_universe</item>
+        <item>@drawable/anak_muda_palsu</item>
+        <item>@drawable/anna</item>
+        <item>@drawable/toy_story_4</item>
+        <item>@drawable/stuber</item>
+    </array>
+
+    <string-array name="data_movie">
+        <item>SPIDERMAN : FAR FOR HOME</item>
+        <item>THE LION KING</item>
+        <item>CHILDS PLAY</item>
+        <item>YESTERDAY</item>
+        <item>THE HUSTLE</item>
+        <item>IQRO - MY UNIVERSE</item>
+        <item>ANAK MUDA PALSU</item>
+        <item>ANNA</item>
+        <item>TOY STORY 4</item>
+        <item>STUBER</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Action, Adventure, Comedy</item>
+        <item>Animation, Adventure, Drama</item>
+        <item>Horror</item>
+        <item>Comedy, Fantasy, Music</item>
+        <item>Comedy</item>
+        <item>Drama, Family</item>
+        <item>Comedy</item>
+        <item>Action, Thriller</item>
+        <item>Animation, Adventure, Comedy</item>
+        <item>Action, Comedy</item>
+    </string-array>
+
+    <string-array name="data_durasi">
+        <item>129 Menit</item>
+        <item>118 Menit</item>
+        <item>89 Menit</item>
+        <item>116 Menit</item>
+        <item>94 Menit</item>
+        <item>101 Menit</item>
+        <item>103 Menit</item>
+        <item>118 Menit</item>
+        <item>100 Menit</item>
+        <item>93 Menit</item>
+    </string-array>
+
+    <string-array name="data_produser">
+        <item>Amy Pascal, Kevin Peige</item>
+        <item>Jon Favreau, Jeffrey Silver, Karen Gilchrist</item>
+        <item>Seth Grahame-smith, David Katzenberg, Lars Klevberg</item>
+        <item>Tim Bevan, Eric Fellner, Richard Curtis, Danny Boyle, Bernie Bellew, Matthew James Wilkinson</item>
+        <item>Roger Birnbaum, Rebel Wilson, Chris Addison</item>
+        <item>Budiyati Abiyoga, Tyas Abiyoga, Iqbal Alfajri</item>
+        <item>Amril Nuryan, Andi Ashari Arraniri</item>
+        <item>Luc Besson, Luc Besson</item>
+        <item>Jonas Rivera, Mark Nielsen</item>
+        <item>John Francis Daley, Jonathan Goldstein</item>
+    </string-array>
+
+    <string-array name="data_sutradara">
+        <item>Jon Watts</item>
+        <item>Jon favreau</item>
+        <item>Lars Klevberg</item>
+        <item>Danny Boyle</item>
+        <item>Chris Addison</item>
+        <item>Iqbal Alfajri</item>
+        <item>Ihdar Nur</item>
+        <item>Luc Besson</item>
+        <item>Josh Cooley</item>
+        <item>Michael Dowse</item>
+    </string-array>
+
+    <string-array name="data_penulis">
+        <item>Chris McKenna, Erik Sommers</item>
+        <item>Jeff Nathanson</item>
+        <item>Tyler Burton Smith</item>
+        <item>Richard Curtis</item>
+        <item>Jac Schaeffer</item>
+        <item>Aisyah Amirah Nasution</item>
+        <item>Matamatahari, Tumming Dan Abu</item>
+        <item>Luc Besson</item>
+        <item>John Lasseter, Andrew Stanton, Pete Docter, Lee Unkrich, Rashida Jones, Will Mccormac</item>
+        <item>Tripper Clancy</item>
+    </string-array>
+
+    <string-array name="data_produksi">
+        <item>Sony Pictures</item>
+        <item>Walt Disney Pictures</item>
+        <item>Orion Pictures</item>
+        <item>Universal Pictures</item>
+        <item>Universal Pictures</item>
+        <item>YPM Salman ITB, Salman Film Academy, Bumi Prasidi, MAV</item>
+        <item>Finisia Production, 786 Production</item>
+        <item>EuropaCorp</item>
+        <item>Walt Disney Pictures</item>
+        <item>20th Century Fox</item>
+    </string-array>
+
+    <string-array name="data_sinopsis">
+        <item>Petualangan Peter Parker (Tom Holland) kali ini akan menuju Eropa. Bersama teman-teman sekolahnya MJ (Zendaya), Ned (Jacob Batalon), Betty (Beras Angourie) dan Flash (Tony Revolori).
+            Namun ancaman datang dalam bentuk yang berbeda, teror mulai menyerang kota-kota di Eropa.
+            Kemunculan sosok Mysterio (Jake Gyllenhaal), Nick Fury (Samuel L. Jackson) dan Happy Hogan (Jon Favreau) akan memberi petunjuk dan tugas baru untuk sang manusia laba-laba itu.
+        </item>
+        <item>
+            Setelah ayahnya terbunuh, Simba, singa muda pewaris tahta melarikan diri dari kerajaannya hanya untuk mempelajari arti sebenarnya dari tanggung jawab dan keberanian.
+        </item>
+        <item>Karen Barclay (Aubrey Plaza) adalah orang tua tunggal. Bersama anaknya Andy (Gabriel Bateman) ia pindah ke kota baru untuk memulai awal yang baru.
+            Namun teror menghampiri Andy lewat sebuah boneka bernama Chucky. Andy meyakini boneka barunya itu adalah sumber dari serangkaian pembunuhan yang terjadi di wilayah baru mereka.
+        </item>
+        <item>Apa jadinya jika semua orang di dunia tidak mengenal The Beatles?
+            Jack Malik (Himesh Patel) adalah seorang musisi yang sedang berjuang mewujudkan mimpinya. Suatu hari ia memainkan lagu Yesterday karya The Beatles. Namun teman-teman yang mendengarkan Jack tidak mengetahui lagu tersebut.
+            Jack dikisahkan sebagai satu-satunya orang di dunia yang mengingat karya-karya The Beatles.
+        </item>
+        <item>Josephine Chesterfield (Anne Hathaway) adalah penipu kelas atas, Ia hidup mewah dari hasil menipu. Sementara Penny Rust (Rebel Wilson) adalah penipu kelas teri. Mereka sama-sama berbakat dengan cara yang berbeda.
+            Setelah dilatih di rumah besar Josephine, Penny akhirnya terjun ke lapangan dengan gaya baru yang tidak terduga.
+        </item>
+        <item>Aqilla (Aisha Nurra Datau) bermimpi untuk menjadi seorang Astronot dan berusaha memenangkan lomba membuat Vlog (Video Blog) tentang tokoh Antariksa dengan hadiah diundang ke Pusat Penelitian Angkasa Luar di Inggris.
+            Kekecewaan karena Opanya yang seorang Astronom (Cok Simbara) harus tugas ke Inggris dan tidak dapat membantunya membuat Vlog akhirnya mempertemukan Aqilla dengan seorang Astronot wanita Indonesia (Maudy Koesnaedi),
+            seorang ahli Botani yang sedang melakukan penelitian tanaman untuk hidup di luar angkasa. Apakah Aqilla berhasil memenangkan lomba tersebut dan menggapai mimpinya?
+        </item>
+        <item>Empat orang mahasiswa semester akhir di Universitas Hasanuddin galau memikirkan kuliah mereka yang tak kunjung selesai. Mereka adalah Tumming, Abu, Illank (Reo Ramadhan) dan Darwis (Hisyam Hamsir). Meski berbeda-beda Fakultas tapi tinggal di tempat kos yang sama. Bersahabat sejak mahasiswa baru dan berjanji untuk wisuda bersama-sama.
+            Bukan perkara mudah untuk bisa menyelesaikan kuliah tepat waktu. Susah masuknya, lebih susah lagi keluarnya, begitu ungkapan mereka. Belum lagi persoalan di tempat kos. Tumming dan kawan-kawan harus menghadapi ibu kos (Luna Vidya) yang super galak. Dan desakan dari orang tua agar segera sarjana.
+            Dari sinilah perjuangan mereka dimulai. Mereka berjanji harus bisa menyelesaikan kuliah bersama-sama. Mereka juga harus tetap survive hidup sebagai anak kos. Kelucuan demi kelucuan muncul dalam setiap adegan yang dikemas dengan sangat menarik. Jangan sampai ketinggalan aksi Tumming, Abu dan kawan-kawannya di bioskop, mulai tanggal 4 Juli 2019.
+        </item>
+        <item>
+            Di balik keanggunan Anna Poliatova (Sasha Luss) terdapat sebuah rahasia. Model cantik ini adalah senjata yang sangat mematikan.Kemampuannya membunuh di lapangan menjadikan Anna salah satu agen rahasia yang paling ditakuti.
+        </item>
+        <item>Woody, Buzz Lightyear, dan anggota geng lainnya memulai perjalanan dengan Bonnie dan mainan baru bernama Forky. Perjalanan yang penuh petualangan berubah menjadi reuni yang tak terduga ketika Woody bertemu dengan Bo Peep.
+            Sebuah perjalanan bersama teman-teman lama dan baru mengungkapkan dunia sangatlah besar untuk sebuah mainan.
+        </item>
+        <item>Ketika seorang pengemudi Uber yang santun bernama Stu (Kumail Nanjiani) menjemput seorang penumpang (Dave Bautista) yang ternyata adalah seorang polisi yang sedang
+            mengejar seorang pembunuh brutal (Iko Uwais), ia dihadapkan pada sebuah tekanan tingkat tinggi karena ia harus mati-matian berusaha untuk mempertahankan akalnya, hidupnya dan peringkat bintang lima-nya.
+        </item>
+    </string-array>
+    <drawable name="Childs_Play" />
+</resources>
